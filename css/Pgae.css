@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: auto;  
+}
+
+.Page-top-nav{
+    background-color: rgba(245, 160, 160, 0.717);
+    width: 100%;
+    border-radius: 50px;
+    overflow: hidden;
+    clear: both;
+}
+.head{
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+    /* overflow: hidden; */
+    /* clear: both; */
+}
+.head #img{
+    width: 100px;
+    float: left;
+    text-decoration: none;
+    line-height: 100%;
+    color: #000;
+}
+
+.head a img{
+    float: left;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.head1{
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+    /* overflow: hidden; */
+    /* position: absolute; */
+    /* clear: both; */
+}
+.head1 .nav{
+    width: 100px;
+    float: right;
+    text-decoration: none;
+    line-height: 100%;
+    color: #000;
+    text-align: center;
+}
+.head1 a .music{
+    background-color: #5b5b5b;
+    float: right;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.Page-left-nav{
+    background-color: rgba(250, 250, 188, 0.89);
+    width: 10%;
+    border-radius: 20px;
+    overflow: hidden;
+    float: left;
+    /* clear: both; */
+    
+    
+}
+/* .Page-left-nav:hover{
+    animation-duration: 3s;
+    animation-name: identifier;
+    animation-play-state:paused 
+} */
+.html{
+    width: 85%;
+    height: 600px;
+    float: left;
+    background-color: pink;
+    overflow: hidden;
+}
+.Page-content{
+    width: 100%;
+    height: 200px;
+    background-color: blue;
+}

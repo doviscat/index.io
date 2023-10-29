@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "573856",
+      "name": "其他",
+      "font_class": "qita",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "7641460",
+      "name": "关于我们",
+      "font_class": "guanyuwomen",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "34451869",
+      "name": "我的-copy",
+      "font_class": "wode",
+      "unicode": "e50d",
+      "unicode_decimal": 58637
+    }
+  ]
+}
